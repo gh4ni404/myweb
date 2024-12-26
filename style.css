@@ -35,6 +35,17 @@
   text-decoration: none;
 }
 
+.kenal-content{
+  font-size: medium;
+  background-color: orchid;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
 
 .container-content{
   width: 100%;
